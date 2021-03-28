@@ -1,0 +1,30 @@
+HTML 기초
+
+head와 body가 담겨있음
+
+head 안에 들어가는 대표적인 요소들: meta,script,title
+
+body 안에 들어가는 대표적인 요소들: 실제로 페이지를 구성하는 요소들
+
+CSS 누구를 어떻게
+
+어떻게 꾸밀거냐 어떤 방법으로 꾸밀거냐
+1.class 2.id 3.html 태그
+보편적으로 쓰이는게 class임
+
+css 폰트
+*{} 을 사용하여 모든 글에 폰트를 먹인다.
+
+display: flex 
+flex-direction:row 가로로 정렬
+flex-direction:column 세로로 정렬
+justify-content: center 
+
+세개가 거의 같이 다님
+
+flex-wrap: wrap; 을 사용하여 원 기본값 150px을 갖게 됨
+
+hover 효고ㅏ주기
+ .rtans > a:hover {background-color: darkred;}
+
+ 그림에 마우스를 대면 색깔이 달라짐
